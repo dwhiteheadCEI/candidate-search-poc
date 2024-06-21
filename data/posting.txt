@@ -1,0 +1,24 @@
+UCaaS/CCaaS Project Lead - Level 3 (full time, remote or hybrid)
+Maximum expected duration is 24 months.
+This position will support the UCaaS Program Manager and be responsible for coordination, status reporting and stability of project related work efforts for the program to successfully migrate Arlington County's on-premise legacy voice services to cloud solutions for unified communication as a service (UCaaS).  Individual projects within this program include:
+ 
+Migration of County's on-premise Cisco Call Manager users to MS Teams Phone
+Migration of existing analog devices from legacy Cisco infrastructure
+Transition of operational support to new managed services provider
+Decommissioning of existing legacy equipment and services according to the County's surplus policies and procedures
+Conversion of existing voice services in County court rooms and conference rooms
+eview of ancillary voice services such as intercoms, call queues, and call recording
+Duties include:
+Manage individual projects in the cloud voice migration project to ensure that the program is completed on time, within budget and within scope
+Responsible for implementing project plans and overseeing teamwork assignments, directing and monitoring work efforts on a daily basis, identifying resource needs, performing quality review; and escalating functional, quality, timeline issues appropriately.
+Tracks key project milestones and adjusting project plans and/or resources to meet the implementation schedule
+Coordinates communication with departments to provide notification of upcoming work efforts
+Gather requirements, provide technical analysis and lead implementation for any approved ancillary voice services
+Assists Program Manager in identifying and prioritizing opportunities for utilizing IT to achieve the goals of the enterprise.
+ 
+Experience
+10+ years of technical program or project management experience leading enterprise-wide projects
+10+ years telecommunications experience such as PSTN, PBX, VoIP, cloud voice services, SIP, circuits, legacy telecommunication infrastructure
+10+ years IT infrastructure experience such as LAN and network security
+2+ experience with Microsoft Teams
+Ability to communicate with both technical and non-technical audiences, across all levels of the organization

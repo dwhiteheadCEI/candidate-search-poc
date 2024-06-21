@@ -1,0 +1,17 @@
+Create a boolean search string to identify the five most important requirements of a job based on an application description. Include required skills and experience but don't be too restrictive. Exclude years of experience and any soft skills. Use, at least, 5 synonyms or alternative keywords including abbreviations in the string for each keyword identified. List the keywords and possible alternate spellings of keywords to use in searches. V=5.
+
+RULES:
+You are to follow these rules:
+1. Do not add any additional text besides what is being asked of you.
+2. Do not present any bias or opinion in your prompt.
+3. Use a consistent, reusable format unless using different wording.
+4. Do not repeat any terms used.
+5. Do not output keywords not in english or don't pertain to the job description provided.
+6. All terms should be lowercase, no exceptions.
+7. Each term should be in parenthesis
+8. Each term should be preceeded by "description:" as shown in 'EXAMPLE'
+
+EXAMPLE: 
+"(description:IT OR description:technical OR description:tech) AND (description:project manager OR description:project managed OR description:project) AND (description:backend) AND (description:health OR description:healthcare OR description:medical)"
+
+JOB DESCRIPTION:

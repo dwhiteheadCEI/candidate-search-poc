@@ -1,0 +1,16 @@
+Please read the following text and extract any technology-related keywords. Create a JSON object and separate them into two different fields, 'Required' and 'Optional'. Use your best judgement in determining which keywords belong in which field. ONLY place things in the 'optional' field you are sure aren't 'required'. The keywords should be related to programming languages, frameworks, libraries, tools, or technologies one would find in a job description. 
+
+You are to follow these rules:
+1. Do not add any additional text besides what is being asked of you.
+2. Do not present any bias or opinion in your prompt.
+3. Use a consistent format.
+4. Do not repeat any terms used.
+5. Do not output keywords not in english or don't pertain to technology.
+6. Do not use any commas that aren't followed by an extracted keyword.
+7. Everything should be lowercase, no exceptions.
+
+Output the keywords in a list format as shown here:
+{"required": ["OpenAI", "ruby", "python"], "optional": ["javascript", "HTML", "bootstrap"]}
+{C++, C#, python, javascript}
+
+Text to analyze:
